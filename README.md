@@ -37,11 +37,11 @@ nvim '+PlugInstall | qa'
 # Font
 * [MonoLisa](https://www.monolisa.dev)
 
-## Shell Options
-### ~/.zshrc
+# Shell Options
+## ~/.zshrc
 ```
 export FZF_DEFAULT_COMMAND='ag -l --path-to-ignore ~/.ignore --hidden -g ""'
 export BAT_THEME=ansi
 export COLORTERM=truecolor
 ```
-
+t
