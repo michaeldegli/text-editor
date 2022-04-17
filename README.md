@@ -4,8 +4,8 @@ This is a guide to get `neovim` and software that supports it set up for program
 # Preview
 <table>
 <tr>
-  <td><img src="screenshots/editing.png"></td>
-  <td><img src="screenshots/files.png"></td>
+  <td><img src="Screenshots/editing.png"></td>
+  <td><img src="Screenshots/files.png"></td>
 </tr>
 </table>
 
