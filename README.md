@@ -23,6 +23,7 @@ If you decide to use [coc.vim](https://github.com/neoclide/coc.nvim), it require
 ```
 mkdir -p ~/.config/nvim
 ```
+Copy `init.vim` to `~/.config/nvim`
 
 ## Download
 * [Neovim](https://neovim.io)
@@ -44,4 +45,3 @@ export FZF_DEFAULT_COMMAND='ag -l --path-to-ignore ~/.ignore --hidden -g ""'
 export BAT_THEME=ansi
 export COLORTERM=truecolor
 ```
-t
